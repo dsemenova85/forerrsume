@@ -15,5 +15,3 @@
 - pandas
 - matplotlib.pyplot
 - seaborn
-- nltk.stem
-
